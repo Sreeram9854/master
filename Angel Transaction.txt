@@ -1,0 +1,11 @@
+
+..
+
+Your transaction is successful and your trading limits will be updated shortly.  
+TRANSACTION DETAILS  
+Segment : NSEFO   
+Amount : 400000   
+Bank Name : ICICI Bank   
+Transaction Reference No : 0548676806   
+ 
+Please note your transaction reference number for any further communication 
